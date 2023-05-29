@@ -1,0 +1,23 @@
+h1{
+    display: flex;
+    justify-content: center;
+    color: blue;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.app{
+    display: flex;
+    justify-content: center;
+}
+button{
+    display: flex;
+    justify-content: center;
+    padding-left: 50px;
+}
+
+span{
+    color: red;
+}
+.matchdate{
+    background-color: green;
+}
